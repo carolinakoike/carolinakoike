@@ -32,3 +32,46 @@ Se você precisa de alguém que **dá conta do recado, custe o que custar** — 
 💻 Java, Spring Boot, TypeScript, JavaScript, React, Node.js
 🛠️ n8n, SQL, Docker, AWS Lambda & SQS, Git, Gurobi
 🎨 HTML, CSS, Tailwind, Vite, Figma, Tkinter
+
+Atualmente focando em **Java + React + n8n**, sem esquecer do velho e confiável **SQL**.
+
+---
+
+### 🧠 Visão de carreira
+
+> **Tecnologia com propósito**: gosto de criar ferramentas úteis, funcionais e acessíveis.  
+> Acredito no poder do código para impactar positivamente pessoas, negócios e, por que não, o agro também 🌾
+
+---
+
+### 🧪 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [📚 CaçaLivro](https://github.com/carolinakoike/books-scraper) | Web app que faz scraping de um site de livros para encontrar os melhores preços | TypeScript, Bun, Vite, JSDOM |
+| [🧪 Calculadora de Adubação (TCC)](https://github.com/carolinakoike/calculadora-adubacao) | Ferramenta de apoio à agricultura que interpreta análises químicas do solo | Python, Gurobi, Tkinter |
+| [🎮 Chatbot de Vendas](https://github.com/carolinakoike/chatbot-vendas) | Bot de atendimento com reconhecimento de palavras-chave | Node.js, Express |
+| [🎨 ThreeKode Home](https://github.com/carolinakoike/threekode-home) | Landing page para microagência de sites personalizados | React, TailwindCSS |
+| [👶 Projeto Enxoval](https://github.com/carolinakoike/projeto-enxoval) | Aplicativo desktop para montar listas de enxoval com dados climáticos | Python, SQLite, OpenWeatherMap API |
+
+---
+
+### 🐾 Curiosidades aleatórias
+
+- Já imprimi coisas em 3D que nem sabia que precisava  
+- Minha doguinha Charlotte é o suporte emocional oficial da casa 🐶  
+- Tenho o dom de fazer piada na hora errada (mas juro que é sem querer 😅)  
+- Meu TCC uniu tecnologia com Active Directory no Samba. Fiquei tão orgulhosa que tô pensando em fazer um repositório só pra ele!
+
+---
+
+### 📫 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/carolina-koike/)
+- 📧 **carolinakoike.dev@gmail.com**
+
+---
+
+> _"Não importa o tamanho do bug, se tiver coragem, resolve."_ 🐞🔥  
+> _E se não resolver, a gente aprende. E depois resolve._
+
