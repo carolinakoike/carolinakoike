@@ -1,38 +1,34 @@
 <h1 align="center">👩‍💻 Carolina Koike</h1>
 
 <p align="center">
-  Desenvolvedora Fullstack | Java & TypeScript | Apaixonada por soluções com propósito
+  Desenvolvedora Fullstack | Java, React & n8n | Tecnologia com propósito
 </p>
 
 ---
 
 ### 🌟 Sobre mim
 
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas pela FATEC Ribeirão Preto  
-- 💼 Desenvolvedora na Compass UOL, atuando em projetos da Porto Seguro  
-- ⚙️ Tecnologias que amo: Java, Spring Boot, Node.js, TypeScript, React, AWS  
-- 🌱 Estudando: Machine Learning, Terraform, e boas práticas de arquitetura  
-- 🧠 Curiosa, focada e sempre buscando aprender algo novo  
-- 💚 Tenho paixão por transformar ideias em soluções reais, úteis e acessíveis  
-- 🐾 Também adoro imprimir coisas em 3D e brincar com a Charlotte 🐶
+Sou a Carol, desenvolvedora formada em Análise e Desenvolvimento de Sistemas, com uma pitada de agrônoma (sim, eu já fui do agro 👩‍🌾🌽).  
+Curiosa por natureza, daquelas que não se contenta só com o “tá funcionando” — eu quero entender **como** funciona, **por que** funciona, e **como pode funcionar melhor**.
+
+O que mais me encanta na tecnologia é a capacidade de ajudar. De verdade.  
+Gosto de projetos que fazem sentido, que facilitam vidas, que automatizam processos — seja na rotina de uma grande empresa, seja no dia a dia de uma pessoa só.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 💼 Como profissional
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [📚 CaçaLivro](https://github.com/carolinakoike/books-scraper) | Web app que faz scraping de um site de livros para encontrar os melhores preços | TypeScript, Bun, Vite, JSDOM |
-| [🧪 Calculadora de Adubação (TCC)](https://github.com/carolinakoike/calculadora-adubacao) | Ferramenta de apoio à agricultura que interpreta análises químicas do solo | Python, Gurobi, Tkinter |
-| [🎮 Chatbot de Vendas](https://github.com/carolinakoike/chatbot-vendas) | Bot de atendimento com reconhecimento de palavras-chave | Node.js, Express |
-| [🎨 ThreeKode Home](https://github.com/carolinakoike/threekode-home) | Landing page para microagência de sites personalizados | React, TailwindCSS |
-| [👶 Projeto Enxoval](https://github.com/carolinakoike/projeto-enxoval) | Aplicativo desktop para montar listas de enxoval com dados climáticos | Python, SQLite, API OpenWeatherMap |
+Atualmente atuo como desenvolvedora na Compass UOL, em projetos da Porto Seguro, mexendo com integração de APIs, Lambda, filas, validações, testes, e o que mais vier.  
+Me sinto à vontade no front-end porque amo ver as mudanças acontecendo na tela, mas minha missão é **dominar o back-end e a arquitetura** com código limpo, eficiente e com propósito.
+
+Sou movida a desafios, café e umas pitadas de desespero (mas tudo sob controle, tá?).  
+Se você precisa de alguém que **dá conta do recado, custe o que custar** — prazer, Carolina Koike. 😅💪
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 🔧 Principais tecnologias
 
 ```text
-💻 Java, Spring Boot, Python, TypeScript, Node.js, React, HTML, CSS
-🛠️ Docker, AWS Lambda & SQS, Gurobi, Terraform, SQL, Git, GitHub Actions
-🎨 Tailwind, Vite, Bun, Tkinter, Figma
+💻 Java, Spring Boot, TypeScript, JavaScript, React, Node.js
+🛠️ n8n, SQL, Docker, AWS Lambda & SQS, Git, Gurobi
+🎨 HTML, CSS, Tailwind, Vite, Figma, Tkinter
