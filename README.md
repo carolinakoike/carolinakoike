@@ -32,6 +32,7 @@ Se você precisa de alguém que **dá conta do recado, custe o que custar** — 
 💻 Java, Spring Boot, TypeScript, JavaScript, React, Node.js
 🛠️ n8n, SQL, Docker, AWS Lambda & SQS, Git, Gurobi
 🎨 HTML, CSS, Tailwind, Vite, Figma, Tkinter
+```
 
 Atualmente focando em **Java + React + n8n**, sem esquecer do velho e confiável **SQL**.
 
@@ -74,4 +75,3 @@ Atualmente focando em **Java + React + n8n**, sem esquecer do velho e confiável
 
 > _"Não importa o tamanho do bug, se tiver coragem, resolve."_ 🐞🔥  
 > _E se não resolver, a gente aprende. E depois resolve._
-
